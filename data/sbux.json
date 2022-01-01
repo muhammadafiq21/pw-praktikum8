@@ -1,0 +1,110 @@
+{
+    "menu" : [
+        {
+            "kategori": "Espresso",
+            "nama": "Caffè Americano",
+            "deskripsi": "HOT: Rich, full-bodied espresso with hot water.",
+            "harga": "37.000",
+            "gambar": "Caffe.jpg"
+        },
+        {
+            "kategori": "Espresso",
+            "nama": "Caffè Latte",
+            "deskripsi": "Rich, full-bodied espresso in steamed milk, lightly topped with foam",
+            "harga": "43.000",
+            "gambar": "Latte.jpg"
+        },
+        {
+            "kategori": "Espresso",
+            "nama": "Caramel Macchiato",
+            "deskripsi": "Espresso combined with vanilla-flavoured syrup, milk and caramel sauce over ice",
+            "harga": "47.000",
+            "gambar": "Caramel.jpg"
+        },
+        {
+            "kategori": "Blended Cream",
+            "nama": "Caramel Cream Frappuccino",
+            "deskripsi": "Milk blended with caramel sauce and ice then topped with whipped cream and caramel drizzle.",
+            "harga": "50.000",
+            "gambar": "CaramelCreamFrap.jpg"
+        },
+        {
+            "kategori": "Blended Cream",
+            "nama": "Vanilla Cream Frappuccino",
+            "deskripsi": "This rich and creamy blend of vanilla bean, milk and ice topped with whipped cream takes va-va-vanilla flavor to another level.",
+            "harga": "50.000",
+            "gambar": "VanillaCreamFrappuccino.jpg"
+        },
+        {
+            "kategori": "Blended Cream",
+            "nama": "Double Chocolate Cream Frappuccino",
+            "deskripsi": "Rich mocha-flavored sauce meets up with chocolaty chips, milk and ice for a blender bash.",
+            "harga": "57.000",
+            "gambar": "DoubleChocolate.jpg"
+        },
+        {
+            "kategori": "Blended Cream",
+            "nama": "Green Tea Cream Frappuccino",
+            "deskripsi": "We blend sweetened premium matcha green tea, milk and ice and top it with sweetened whipped cream to give you a delicious boost of energy.",
+            "harga": "57.000",
+            "gambar": "GreenTea.jpg"
+        },
+        {
+            "kategori": "Blended Cream",
+            "nama": "Caramel Java Chip Frappuccino",
+            "deskripsi": "Java Chip Frappuccino with a swirl of caramel sauce on top.",
+            "harga": "65.000",
+            "gambar": "CaramelJava.jpg"
+        },
+        
+        {
+            "kategori": "Food",
+            "nama": "Beef Filone",
+            "deskripsi": "Soft Baguette with Smoked Beef & Cheese filling",
+            "harga": "44.000",
+            "gambar": "BeefFilone.jpg"
+        },
+        {
+            "kategori": "Food",
+            "nama": "Tuna Cheese",
+            "deskripsi": "All time favorite Tuna sandwich in healthy Whole Wheat",
+            "harga": "28.000",
+            "gambar": "Tuna.jpg"
+        },
+        {
+            "kategori": "Food",
+            "nama": "Smoked Beef",
+            "deskripsi": "All time favorite Smoked Beef & Cheese pressed sandwich",
+            "harga": "50.000",
+            "gambar": "Smoked.jpg"
+        },
+        {
+            "kategori": "Food",
+            "nama": "Cinnamon Roll",
+            "deskripsi": "Sweet dough with cinnamon filling, sultanas and topped with a cream cheese style icing.",
+            "harga": "37.000",
+            "gambar": "Roll.jpg"
+        },
+        {
+            "kategori": "Food",
+            "nama": "Classic Dark Chocolate Cake",
+            "deskripsi": "A classic Devil's Food Cake with Dark chocolate ganache",
+            "harga": "40.000",
+            "gambar": "Dark.jpg"
+        },
+        {
+            "kategori": "Food",
+            "nama": "Via Red Velvet Roll Cake",
+            "deskripsi": "Velvety red jelly rolled cake blend with praline nuts",
+            "harga": "40.000",
+            "gambar": "Via.jpg"
+        },
+        {
+            "kategori": "Food",
+            "nama": "Banana Cake",
+            "deskripsi": "Moist and flavorful Banana Quickbread cake",
+            "harga": "37.000",
+            "gambar": "Cake.jpg"
+        }
+    ]
+}
